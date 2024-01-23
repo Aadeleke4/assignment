@@ -1,3 +1,21 @@
+# Your Web Application
+
+This Dockerized web application runs on localhost:7775.
+
+## Prerequisites
+
+Make sure you have [Docker](https://www.docker.com/) installed on your machine.
+
+## Running the Application
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Aadeleke4/assignment.git
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +86,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
