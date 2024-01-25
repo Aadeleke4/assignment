@@ -4,7 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Your Web Application
+# Your Web Applications
 
 This Dockerized web application runs on localhost:7775.
 
@@ -16,7 +16,7 @@ Make sure you have [Docker](https://www.docker.com/) installed on your machine.
 
 1. Clone this repository:
 
-   ```bash
+   ```bash 
    git clone https://github.com/Aadeleke4/assignment.git
 
 
